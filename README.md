@@ -7,7 +7,7 @@ I'm interested in:
 - Firebase
 
 I'm currently learning:
-- iOS Development
+- iOS
 - Swift
 - React Native
 
